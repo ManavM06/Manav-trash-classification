@@ -16,3 +16,8 @@ To host your own classification + X website:
 Learn more about exporting models from TensorFlow to TFJS [here.](https://www.tensorflow.org/js/tutorials/conversion/import_keras)
 
 See more TFJS examples [here.](https://github.com/tensorflow/tfjs-examples)
+
+What’s the project about? Why is it important/interesting?
+Our project is about trash classification. The AI will be able to identify the difference between recyclable, compostable, and waste. We chose to do this project because 
+What will you do?/How will you do it?
+What results do you expect to have?
